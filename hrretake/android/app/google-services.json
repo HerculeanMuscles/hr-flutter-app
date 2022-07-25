@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637803957694",
+    "project_id": "hrretake",
+    "storage_bucket": "hrretake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637803957694:android:bbb4c1f3e7d2baa4ffbdef",
+        "android_client_info": {
+          "package_name": "com.example.hrretake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637803957694-46sabnmhn1t9ksgtnlrjcbntd3rpbbf9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtDNSHiuWWB94jfAt5GJng3t5cNgyuMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637803957694-46sabnmhn1t9ksgtnlrjcbntd3rpbbf9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
